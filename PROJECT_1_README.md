@@ -209,16 +209,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
 **Ajay Kumar Pujari**
 - Email: ajaykumarpujari22@gmail.com
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: [ajaykumarpujari12-svg](https://github.com/ajaykumarpujari12-svg)
+
 
 ## 🙏 Acknowledgments
 
