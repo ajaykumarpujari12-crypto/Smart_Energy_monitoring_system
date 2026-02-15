@@ -223,16 +223,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - MQTT protocol for IoT communication
 - Open-source libraries used in this project
 
-## 📸 Screenshots
 
-### Hardware Setup
-[Add image of your physical setup]
-
-### Dashboard
-[Add screenshot of web dashboard]
-
-### Mobile View
-[Add screenshot of mobile interface]
 
 ---
 
