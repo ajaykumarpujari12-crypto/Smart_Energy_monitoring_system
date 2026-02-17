@@ -214,7 +214,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Ajay Kumar Pujari**
 - Email: ajaykumarpujari22@gmail.com
-- GitHub: [ajaykumarpujari12-svg](https://github.com/ajaykumarpujari12-svg)
+- GitHub: [ajaykumar-46](https://github.com/ajaykumar-46)
 
 
 ## 🙏 Acknowledgments
